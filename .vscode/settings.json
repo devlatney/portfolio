@@ -12,5 +12,6 @@
         "umass",
         "wireframe",
         "wireframes"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
