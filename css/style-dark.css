@@ -975,11 +975,12 @@ header .header-mobile .header-toggle i {
 
 .about-section {
   background-color: #2c2d2f;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 .about-section .about h3 {
   font-size: 22px;
-  font-weight: 700;
+  font-weight: 70;
 }
 
 .about-section .about .signature {
@@ -1425,7 +1426,8 @@ header .header-mobile .header-toggle i {
 /* Calculations */
 /* Placeholders */
 @media (min-width: 1000px) {
-  #timeline .demo-card:nth-child(even) .head::after, #timeline .demo-card:nth-child(odd) .head::after {
+  #timeline .demo-card:nth-child(even) .head::after,
+  #timeline .demo-card:nth-child(odd) .head::after {
     position: absolute;
     content: "";
     width: 0;
@@ -1434,7 +1436,8 @@ header .header-mobile .header-toggle i {
     border-bottom: 15px solid transparent;
   }
 
-  #timeline .demo-card:nth-child(even) .head::before, #timeline .demo-card:nth-child(odd) .head::before {
+  #timeline .demo-card:nth-child(even) .head::before,
+  #timeline .demo-card:nth-child(odd) .head::before {
     position: absolute;
     content: "";
     width: 9px;
@@ -1481,7 +1484,7 @@ body {
 
 #timeline {
   padding: 100px 0;
-  background: #f7f7f7;
+  /*background: #f7f7f7;*/
   border-top: 1px solid rgba(191, 191, 191, 0.4);
   border-bottom: 1px solid rgba(191, 191, 191, 0.4);
 }
@@ -1507,7 +1510,7 @@ body {
     flex-flow: column wrap;
     width: 1170px;
     height: 1650px;
-    margin: 0 auto;
+    margin: 0px 0px 0px  -60px;
   }
 }
 #timeline .demo-card-wrapper::after {
@@ -1530,6 +1533,8 @@ body {
   margin: 10px auto 80px;
   max-width: 94%;
   z-index: 2;
+  font-family: Roboto;
+  color:black;
 }
 @media (min-width: 480px) {
   #timeline .demo-card {
@@ -1668,8 +1673,6 @@ body {
 #timeline .demo-card--step5 .head::after {
   border-color: #46b8e9;
 }
-
-
 
 /*============ 8. Blog Section ============*/
 
