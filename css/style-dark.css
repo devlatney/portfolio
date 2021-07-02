@@ -981,6 +981,7 @@ header .header-mobile .header-toggle i {
 .about-section .about h3 {
   font-size: 22px;
   font-weight: 70;
+  padding: 1em;
 }
 
 .about-section .about .signature {
