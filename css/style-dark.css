@@ -981,7 +981,6 @@ header .header-mobile .header-toggle i {
 .about-section .about h3 {
   font-size: 22px;
   font-weight: 70;
-  padding: 10px;
 }
 
 .about-section .about .signature {
@@ -997,7 +996,7 @@ header .header-mobile .header-toggle i {
   font-family: "Playfair Display", serif;
   font-size: 16px;
   font-weight: 700;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.10px;
   border-bottom: 2px solid #ffffff;
   position: relative;
   display: inline-block;
