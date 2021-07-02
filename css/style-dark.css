@@ -976,12 +976,12 @@ header .header-mobile .header-toggle i {
 .about-section {
   background-color: #2c2d2f;
   font-family:Arial, Helvetica, sans-serif;
+   line-height: 10em;
 }
 
 .about-section .about h3 {
   font-size: 22px;
   font-weight: 70;
-    line-height: 1em;
 }
 
 .about-section .about .signature {
