@@ -1282,6 +1282,9 @@ header .header-mobile .header-toggle i {
 
 
 /*============ 7. Portfolio Timeline Section ============*/
+.portfolio-section {
+    background-color: #FBFBFB;
+}
 
 @media (min-width: 1000px) {
   #timeline .demo-card:nth-child(even) .head::after,
