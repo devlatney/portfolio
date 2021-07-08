@@ -1014,7 +1014,7 @@ header .header-mobile .header-toggle i {
 
 .about-section .about .about-info ul li {
     line-height: 1em;
-    margin-bottom: 13px;
+    margin-bottom: 7px;
 }
 
 .about-section .about .about-info ul li span.title {
@@ -1059,7 +1059,7 @@ header .header-mobile .header-toggle i {
     line-height: 22px;
     margin-bottom: 0;
     margin-top: 15px;
-    margin-bottom: -10px;
+    margin-bottom: 15px;
 }
 
 .clients .client-logo img {
