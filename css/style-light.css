@@ -1038,7 +1038,7 @@ header .header-mobile .header-toggle i {
 
 .about-section .services .service-item {
     text-align: center;
-     margin-top: -40px;
+    margin-top: 40px;
     margin-bottom: 40px;
     position: relative;
 }
