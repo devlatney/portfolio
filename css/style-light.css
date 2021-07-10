@@ -1001,6 +1001,7 @@ header .header-mobile .header-toggle i {
   background-color: #FBFBFB;
   font-family:Arial, Helvetica, sans-serif;
   line-height: 1.4;
+  text-decoration: underline !important;
 }
 
 .about-section .about h3 {
