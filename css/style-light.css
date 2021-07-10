@@ -1044,7 +1044,7 @@ header .header-mobile .header-toggle i {
 
 .about-section .underline-color{
     text-decoration-line: underline;
-    text-decoration-color: black;
+    text-decoration-color: red;
 }
 
 .about-section .services .service-item {
