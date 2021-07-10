@@ -1037,15 +1037,16 @@ header .header-mobile .header-toggle i {
     right: -10px;
 }
 /*Services Section*/
+
 .services{
     margin-top: -50px;
 }
 
-.underline-color{
+.line-color{
     text-decoration-line: underline;
     text-decoration-color: black;
-
 }
+
 .about-section .services .service-item {
     text-align: center;
     margin-bottom: 10px;
