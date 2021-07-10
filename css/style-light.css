@@ -1043,7 +1043,7 @@ header .header-mobile .header-toggle i {
 }
 
 .about-section .underline-color{
-    text-decoration-line: underline;
+    text-decoration-line: underline !important;
     text-decoration-color: red;
 }
 
