@@ -1010,11 +1010,12 @@ header .header-mobile .header-toggle i {
 
 .about-section .about .signature {
   width: 40%;
+  margin-bottom: -10px;
 }
 
 .about-section .about .about-info ul li {
     line-height: 1em;
-    margin-bottom: 1px;
+    margin-bottom: 7px;
 }
 
 .about-section .about .about-info ul li span.title {
