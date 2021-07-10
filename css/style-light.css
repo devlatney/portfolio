@@ -1038,21 +1038,18 @@ header .header-mobile .header-toggle i {
 /*Services Section*/
 .about-section .services .service-item {
     text-align: center;
-    margin-top: 150px;
     margin-bottom: 10px;
     position: relative;
 }
 
 .about-section .services .service-item .icon {
     font-size: 50px;
-    margin-top: 50px;
     margin-bottom: 10px;
     line-height: 1em;
     color: #222;
 }
 
 .about-section .services .service-item h4 {
-    margin-top: 50px;
     font-size: 18px;
     font-weight: 600;
 }
