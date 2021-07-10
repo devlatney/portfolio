@@ -1035,10 +1035,9 @@ header .header-mobile .header-toggle i {
     position: absolute;
     right: -10px;
 }
-/*Margins Updates*/
+/*Updated Section*/
 .about-section .services .service-item {
     text-align: center;
-    margin-top: 10px;
     margin-bottom: 40px;
     position: relative;
 }
