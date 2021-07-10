@@ -1036,8 +1036,8 @@ header .header-mobile .header-toggle i {
     right: -10px;
 }
 /*Services Section*/
-.about-section .services{
-    margin-top: -15px;
+.services{
+    margin-top: 5px;
 }
 
 .about-section .services .service-item {
